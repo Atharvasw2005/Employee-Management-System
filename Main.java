@@ -13,10 +13,10 @@ abstract class Employee
             this.ID=ID;
         }
        
-        // public String getEmployee_Name()
-        // {
-        //     return this.Name;
-        // }
+        public String getEmployee_Name()
+        {
+            return this.Name;
+        }
     
         public int getEmployee_ID()
         {
